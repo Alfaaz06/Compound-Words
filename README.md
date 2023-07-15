@@ -17,7 +17,7 @@ This Java program finds the longest and second longest compound words in a given
 2. Compile the Java source code using the Java compiler: `javac index.java`.
 3. Run the compiled program using the Java Virtual Machine: `java index`.
 
-##Note: Upate the path of the input file in index.java
+###Note: Upate the path of the input file in index.java
 
 ### Dependencies
 
