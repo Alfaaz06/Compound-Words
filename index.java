@@ -48,7 +48,7 @@ public class index {
 
         long begin = System.currentTimeMillis();
 
-        File file = new File("C:\\Users\\dell\\Desktop\\Impledge\\Input_02.txt");
+        File file = new File("C:\\Users\\dell\\Desktop\\Impledge\\Input_02.txt"); //path of the input file.
         List<String> list = new LinkedList<>();
         Scanner sc = new Scanner(file);
         List<Integer> indices = new ArrayList<>();
